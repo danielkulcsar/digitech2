@@ -2,6 +2,8 @@
 
 **Tinkercad és Arduino alapú beadandó dokumentáció**
 
+https://www.tinkercad.com/things/l79aFKBToUm-talajnedvesseg-erzekelo?sharecode=Rt3bxxJ9YtsMykcb8Ph16QOLwn9pm4153vr3ND-s1_8
+
 Arduino Uno • talajnedvesség szenzor • LED kijelzés • motoros locsoló
 
 ![Kapcsolási rajz](images/kapcsolasi_rajz.png)
